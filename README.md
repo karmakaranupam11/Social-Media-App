@@ -6,8 +6,10 @@ This project is an Instagram clone application built with [programming language/
 
 ## Screen Shots
 
-<img width="958" alt="image" src="https://github.com/karmakaranupam11/Social-Media-App/assets/78259115/ad0968ed-92ab-434c-a2c6-6023a1a7b762">
-<img width="947" alt="image" src="https://github.com/karmakaranupam11/Social-Media-App/assets/78259115/ebf87b9a-2fc4-4118-b1ed-7ce0d6f33630">
+<img width="954" alt="image" src="https://github.com/karmakaranupam11/Social-Media-App/assets/78259115/2d52f8c3-12d3-4446-b401-4cfe2e1e1455">
+
+<img width="952" alt="image" src="https://github.com/karmakaranupam11/Social-Media-App/assets/78259115/9f28874e-cd88-4b49-9eca-7acf1196d3ed">
+
 
 
 ## Features
