@@ -4,6 +4,12 @@
 
 This project is an Instagram clone application built with [programming language/framework] that replicates the core functionalities of the popular social media platform, Instagram. It serves as a learning exercise and a showcase of modern web development practices.
 
+## Screen Shots
+
+<img width="958" alt="image" src="https://github.com/karmakaranupam11/Social-Media-App/assets/78259115/ad0968ed-92ab-434c-a2c6-6023a1a7b762">
+<img width="947" alt="image" src="https://github.com/karmakaranupam11/Social-Media-App/assets/78259115/ebf87b9a-2fc4-4118-b1ed-7ce0d6f33630">
+
+
 ## Features
 
 - **User Authentication:** Secure user authentication system with features like sign up, login, and password recovery.
